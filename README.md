@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro 👋
 
 - 🔭 I’m currently working on getting my degree in software engineering
-- 🌱 I’m currently learning Blazor
+- 🌱 I’m currently learning Blazor, React, Flutter
 - 👯 I’m looking to collaborate on small projects
 - 🤔 I’m looking for help with React/React Native
 - 📫 How to reach me: over email
